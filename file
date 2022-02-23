@@ -1,0 +1,1 @@
+plot "MonteCarlo.txt" using 1:2 title "n vs MonteCarlo expected abs error" with lines; pause mouse keypress
